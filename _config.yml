@@ -13,9 +13,10 @@ title: Matthew DeSouza's Portfolio # This is what shows up in the tab of the bro
 
 # Hero Section
 name: Matthew DeSouza
-headline: Computer Engineering @ University of Houston
+headline: Aspiring Computer Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  
+Electrical and Computer Engineering student at the University of Houston. Passionate about Embedded Systems, Software Engineering, Electronics, and Control Systems.
+Oh and I like to make music too XD.
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
 
@@ -91,11 +92,11 @@ formspree-key:   https://formspree.io/f/{8-digit key}
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the basic theme
-  text: "#1a1c20"
-  border: "#ddd"
-  link: "#4a76ee"
-  highlight: "#0c0cf2"
-  background: "#ffffff"
+  text: "#ffffff"
+  border: "#444"
+  link: "#76a7ff"
+  highlight: "#4a76ee"
+  background: "#1a1c20"
   light_background: "#2a2d33"
 
 # A few examples. 

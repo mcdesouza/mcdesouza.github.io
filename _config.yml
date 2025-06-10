@@ -15,8 +15,8 @@ title: Matthew DeSouza's Portfolio # This is what shows up in the tab of the bro
 name: Matthew DeSouza
 headline: Aspiring Computer Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
-Electrical and Computer Engineering student at the University of Houston. Passionate about Embedded Systems, Software Engineering, Electronics, and Control Systems.
-Oh and I like to make music too XD.
+  Electrical and Computer Engineering student at the University of Houston. Passionate about Embedded Systems, Software Engineering, Electronics, and Control Systems.
+  Oh and I like to make music too XD.
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
 
